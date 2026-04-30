@@ -1,4 +1,4 @@
-# 👋 Hiii! I'm Shira Ilana Liori Reis Orenstein de Araujo Cohen
+# Hiii! I'm Shira Ilana Liori Reis Orenstein de Araujo Cohen
 
 ### 🎂 Age: 18 years old  
 ### 🎓 Student at UDF Asa Sul  
