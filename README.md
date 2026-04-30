@@ -1,4 +1,4 @@
-# Hiii! I'm Shira Ilana Liori Reis Orenstein de Araujo Cohen
+## Oiii! Meu nome é Shira Ilana Liori Reis Orenstein de Araujo Cohen
 
 ### 🎂 18 years old  
 ### 🎓 Student at UDF
