@@ -1,22 +1,12 @@
-# Welcome to My GitHub Profile!
+# README
 
-![Hello Kitty Banner](https://example.com/hello-kitty-banner.png)
+This project contains real images of Hello Kitty and Madoka Magica.
 
-## About Me
-I am a passionate developer who loves Hello Kitty and Madoka Magica!
+## Images
 
-![Decorative Image](https://example.com/decorative-image1.png)
+![Hello Kitty](https://i.imgur.com/1Z3Y3nA.jpg)
 
-## Projects
-- Project 1
-- Project 2
+![Madoka Magica](https://i.imgur.com/8D7KJfj.jpg)
 
-![Decorative Image](https://example.com/decorative-image2.png)
-
-Thank you for visiting my profile!
-
-![Hello Kitty](https://example.com/hello-kitty.png) ![Madoka Magica](https://example.com/madoka-magica.png)
-
----
-
-*This README is colorfully decorated with a pink and black theme to reflect my interests!*
+## Description
+This repository showcases beloved characters with high-quality images. Stay tuned for more updates!
