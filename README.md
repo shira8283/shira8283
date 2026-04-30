@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**shira8283/shira8283** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello! I'm Shira Ilana Liori Reis Orenstein de Araujo Cohen
 
-Here are some ideas to get you started:
+![Hello Kitty](https://example.com/hello-kitty-image) ![Madoka Magica](https://example.com/madoka-magica-image)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎂 Age: 18 years old  
+### 🎓 Student at UDF Asa Sul  
+
+### ✨ Interests:  
+- Python programming  
+- Artificial Intelligence  
+- Drawing  
+- Reading  
+
+### 📧 Contact: [shirailanaliori@gmail.com](mailto:shirailanaliori@gmail.com)  
+
+---  
+
+### 💖 About Me  
+Welcome to my profile! I’m passionate about programming and the arts. I love creating things and exploring new technologies. Enjoy your stay!  
+
+---  
+
+### 🌈 Theme  
+This README is inspired by my love for Hello Kitty and Madoka Magica. I adore the cute, whimsical aesthetics and the deep narratives of these worlds.  
+
+This profile combines my interests in technology and creativity, all wrapped up in my favorite colors: pink and black!  
+
+Feel free to connect with me! 
