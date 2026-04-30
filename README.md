@@ -1,12 +1,19 @@
-# README
+# 👋 Hello! I'm Shira Ilana Liori Reis Orenstein de Araujo Cohen
 
-This project contains real images of Hello Kitty and Madoka Magica.
+### 🎂 Age: 18 years old  
+### 🎓 Student at UDF Asa Sul  
 
-## Images
+### Interests:  
+- Python programming  
+- Artificial Intelligence  
 
-![Hello Kitty](https://i.imgur.com/1Z3Y3nA.jpg)
+### 📧 Contact: [shirailanaliori@gmail.com](mailto:shirailanaliori@gmail.com)  
 
-![Madoka Magica](https://i.imgur.com/8D7KJfj.jpg)
+---  
 
-## Description
-This repository showcases beloved characters with high-quality images. Stay tuned for more updates!
+### 💖 About Me  
+Welcome to my profile! I’m passionate about programming and the arts. I love creating things and exploring new technologies. Enjoy your stay!  
+
+---  
+
+Feel free to connect with me!
