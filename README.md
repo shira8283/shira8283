@@ -39,4 +39,7 @@ I also love mixing logic with creativity, which is why I enjoy both programming 
 ### 📧 Contact: [shirailanaliori@gmail.com](mailto:shirailanaliori@gmail.com)  
 ---  
 
-Feel free to reach out and talk to me! 💕
+### Feel free to reach out and talk to me! 💕
+<p align="center">
+  <img src="download.gif">
+</p>
