@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/349/34921.gif" width="700">
+  <img src="34921 (1).gif" width="700">
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=shira8283&label=Profile%20views&color=0e75b6&style=flat)
