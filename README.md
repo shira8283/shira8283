@@ -1,3 +1,5 @@
+![Banner](./github-header-banner.png)
+
 ## Oiii! Meu nome é Shira Ilana Liori Reis Orenstein de Araujo Cohen
 
 ### 💖 Sobre mim!! :3
