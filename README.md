@@ -1,5 +1,5 @@
 
-![ Hiiii, my name is Shira Ilana🐰](https://giffiles.alphacoders.com/349/34921.gif) 
+![ Hiiii, my name is Shira Ilana🐰]
 
 <p align="center">
   <img src="https://giffiles.alphacoders.com/349/34921.gif">
