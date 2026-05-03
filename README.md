@@ -1,5 +1,5 @@
 
-![👋 Hi, my name is Shira Ilana](https://giffiles.alphacoders.com/349/34921.gif) 
+![ Hiiii, my name is Shira Ilana🐰](https://giffiles.alphacoders.com/349/34921.gif) 
 
 ![Profile views](https://komarev.com/ghpvc/?username=shira8283&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -7,7 +7,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, my name is Shira Ilana
+          Hiiii, my name is Shira Ilana🐰
       </h1>
     </summary>
   </ul>
