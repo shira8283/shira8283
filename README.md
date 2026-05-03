@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/349/34921.gif">
-</p>
-
-<p align="center">
   <img src="https://giffiles.alphacoders.com/349/34921.gif" width="700">
 </p>
 
