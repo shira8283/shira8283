@@ -41,5 +41,5 @@ I also love mixing logic with creativity, which is why I enjoy both programming 
 
 ### Feel free to reach out and talk to me! 💕
 <p align="center">
-  <img src="download.gif">
+  <img src="download.gif" width="120">
 </p>
