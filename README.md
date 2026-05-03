@@ -1,6 +1,10 @@
 
 ![ Hiiii, my name is Shira Ilana🐰](https://giffiles.alphacoders.com/349/34921.gif) 
 
+<p align="center">
+  <img src="https://giffiles.alphacoders.com/349/34921.gif">
+</p>
+
 ![Profile views](https://komarev.com/ghpvc/?username=shira8283&label=Profile%20views&color=0e75b6&style=flat)
 
 <div id="toc">
