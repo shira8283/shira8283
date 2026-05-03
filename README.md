@@ -17,7 +17,8 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.instagram.com/shy0li" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="32" style="margin-right: 8px"></a> <a href="https://github.com/shira8283" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="32" style="margin-right: 8px"></a></p>
 
-💖 About me!! :3
+### 💖 About me!! :3
+
  Welcome to my profile! I’m really passionate about programming and arts. I love creating things, bringing ideas to life, and exploring new technologies. Programming is something I genuinely enjoy, especially when I’m solving problems and building cool projects.
 I’m currently a student and always trying to learn more and improve my skills. I have experience with Python programming and Artificial Intelligence, and I’m always looking for new ways to grow. In the future, I want to become a Data Analyst, using data to understand problems, find insights, and create meaningful solutions.
 I also love mixing logic with creativity, which is why I enjoy both programming and arts so much! it lets me express ideas in different and unique ways. I’m always curious, motivated, and excited to keep learning!
